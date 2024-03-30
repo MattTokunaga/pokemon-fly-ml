@@ -1,0 +1,371 @@
+#0373	
+
+Salamence	 	Intimidate
+Moxie	95	135	80	110	80	100	Evolve
+#0384	
+
+Rayquaza	 	Air Lock	105	150	90	150	90	95	Lv. 63
+#0661	
+
+Fletchling	 	Big Pecks
+Gale Wings	45	50	43	40	38	62	Lv. 50
+#0662	
+
+Fletchinder	 	Flame Body
+Gale Wings	62	73	55	56	52	84	Lv. 64
+#0663	
+
+Talonflame	 	Flame Body
+Gale Wings	78	81	71	74	69	126	Lv. 74
+#0738	
+
+Vikavolt	 	Levitate	77	70	90	145	75	43	Lv. 50
+#0841	
+
+Flapple	 	Ripen
+Gluttony
+Hustle	70	110	80	95	60	70	Lv. 40
+#0931	
+
+Squawkabilly	 	Intimidate
+Hustle
+Guts	82	96	51	45	51	92	Lv. 30
+#1005	
+
+Roaring Moon	 	Protosynthesis	105	139	71	55	101	119	Lv. 70
+Pokémon That Learn Fly By Technical Machine (TM097)
+No.	Pic	Name	Type	Abilities	Base Stats
+HP	Att	Def	S.Att	S.Def	Spd
+#0006	
+
+Charizard	 	Blaze
+Solar Power	78	84	78	109	85	100
+#0085	
+
+Dodrio	 	Run Away
+Early Bird
+Tangled Feet	60	110	70	60	60	110
+#0144	
+
+Articuno	 	Pressure
+Snow Cloak	90	85	100	95	125	85
+#0144	
+
+Articuno	 	Competitive	90	85	85	125	100	95
+#0145	
+
+Zapdos	 	Pressure
+Static	90	90	85	125	90	100
+#0145	
+
+Zapdos	 	Defiant	90	125	90	85	90	100
+#0146	
+
+Moltres	 	Pressure
+Flame Body	90	100	90	125	85	90
+#0146	
+
+Moltres	 	Berserk	90	85	90	100	125	90
+#0149	
+
+Dragonite	 	Inner Focus
+Multiscale	91	134	95	100	100	80
+#0151	
+
+Mew		Synchronize	100	100	100	100	100	100
+#0163	
+
+Hoothoot	 	Insomnia
+Keen Eye
+Tinted Lens	60	30	30	36	56	50
+#0164	
+
+Noctowl	 	Insomnia
+Keen Eye
+Tinted Lens	100	50	50	86	96	70
+#0198	
+
+Murkrow	 	Insomnia
+Super Luck
+Prankster	60	85	42	85	42	91
+#0225	
+
+Delibird	 	Vital Spirit
+Hustle
+Insomnia	45	55	45	65	45	75
+#0227	
+
+Skarmory	 	Keen Eye
+Sturdy
+Weak Armor	65	80	140	40	70	70
+#0249	
+
+Lugia	 	Pressure
+Multiscale	106	90	130	90	154	110
+#0250	
+
+Ho-Oh	 	Pressure
+Regenerator	106	130	90	110	154	90
+#0278	
+
+Wingull	 	Keen Eye
+Hydration
+Rain Dish	40	30	30	55	30	85
+#0279	
+
+Pelipper	 	Keen Eye
+Drizzle
+Rain Dish	60	50	100	95	70	65
+#0329	
+
+Vibrava	 	Levitate	50	70	50	50	50	70
+#0330	
+
+Flygon	 	Levitate	80	100	80	80	80	100
+#0333	
+
+Swablu	 	Natural Cure
+Cloud Nine	45	40	60	40	75	50
+#0334	
+
+Altaria	 	Natural Cure
+Cloud Nine	75	70	90	70	105	80
+#0357	
+
+Tropius	 	Chlorophyll
+Solar Power
+Harvest	99	68	83	72	87	51
+#0373	
+
+Salamence	 	Intimidate
+Moxie	95	135	80	110	80	100
+#0380	
+
+Latias	 	Levitate	80	80	90	110	130	110
+#0381	
+
+Latios	 	Levitate	80	90	80	130	110	110
+#0384	
+
+Rayquaza	 	Air Lock	105	150	90	150	90	95
+#0396	
+
+Starly	 	Keen Eye
+Reckless	40	55	30	30	30	60
+#0397	
+
+Staravia	 	Intimidate
+Reckless	55	75	50	40	40	80
+#0398	
+
+Staraptor	 	Intimidate
+Reckless	85	120	70	50	60	100
+#0425	
+
+Drifloon	 	Aftermath
+Unburden
+Flare Boost	90	50	34	60	44	70
+#0426	
+
+Drifblim	 	Aftermath
+Unburden
+Flare Boost	150	80	44	90	54	80
+#0430	
+
+Honchkrow	 	Insomnia
+Super Luck
+Moxie	100	125	52	105	52	71
+#0487	
+
+Giratina	 	Pressure
+Telepathy	150	100	120	100	120	90
+#0493	
+
+Arceus		Multitype	120	120	120	120	120	120
+#0580	
+
+Ducklett	 	Keen Eye
+Big Pecks
+Hydration	62	44	50	44	50	55
+#0581	
+
+Swanna	 	Keen Eye
+Big Pecks
+Hydration	75	87	63	87	63	98
+#0623	
+
+Golurk	 	Iron Fist
+Klutz
+No Guard	89	124	80	55	80	55
+#0627	
+
+Rufflet	 	Keen Eye
+Sheer Force
+Hustle	70	83	50	37	50	60
+#0628	
+
+Braviary	 	Keen Eye
+Sheer Force
+Defiant	100	123	75	57	75	80
+#0628	
+
+Braviary	 	Keen Eye
+Sheer Force	110	83	70	112	70	65
+#0629	
+
+Vullaby	 	Big Pecks
+Overcoat
+Weak Armor	70	55	75	45	65	60
+#0630	
+
+Mandibuzz	 	Big Pecks
+Overcoat
+Weak Armor	110	65	105	55	95	80
+#0635	
+
+Hydreigon	 	Levitate	92	105	90	125	90	98
+#0637	
+
+Volcarona	 	Flame Body
+Swarm	85	60	65	135	105	100
+#0641	
+
+Tornadus		Prankster
+Defiant	79	115	70	125	80	111
+#0642	
+
+Thundurus	 	Prankster
+Defiant	79	115	70	125	80	111
+#0643	
+
+Reshiram	 	Turboblaze	100	120	100	150	120	90
+#0644	
+
+Zekrom	 	Teravolt	100	150	120	120	100	90
+#0645	
+
+Landorus	 	Sand Force
+Sheer Force	89	125	90	115	80	101
+#0646	
+
+Kyurem	 	Pressure	125	130	90	130	90	95
+#0661	
+
+Fletchling	 	Big Pecks
+Gale Wings	45	50	43	40	38	62
+#0662	
+
+Fletchinder	 	Flame Body
+Gale Wings	62	73	55	56	52	84
+#0663	
+
+Talonflame	 	Flame Body
+Gale Wings	78	81	71	74	69	126
+#0701	
+
+Hawlucha	 	Limber
+Unburden
+Mold Breaker	78	92	75	74	63	118
+#0714	
+
+Noibat	 	Frisk
+Infiltrator
+Telepathy	40	30	35	45	40	55
+#0715	
+
+Noivern	 	Frisk
+Infiltrator
+Telepathy	85	70	80	97	80	123
+#0731	
+
+Pikipek	 	Keen Eye
+Skill Link
+Pickup	35	75	30	30	30	65
+#0732	
+
+Trumbeak	 	Keen Eye
+Skill Link
+Pickup	55	85	50	40	50	75
+#0733	
+
+Toucannon	 	Keen Eye
+Skill Link
+Sheer Force	80	120	75	75	75	60
+#0738	
+
+Vikavolt	 	Levitate	77	70	90	145	75	43
+#0741	
+
+Oricorio	 	Dancer	75	70	70	98	70	93
+#0792	
+
+Lunala	 	Shadow Shield	137	113	89	137	107	97
+#0821	
+
+Rookidee		Keen Eye
+Unnerve
+Big Pecks	38	47	35	33	35	57
+#0822	
+
+Corvisquire		Keen Eye
+Unnerve
+Big Pecks	68	67	55	43	55	77
+#0823	
+
+Corviknight	 	Pressure
+Unnerve
+Mirror Armor	98	87	105	53	85	67
+#0841	
+
+Flapple	 	Ripen
+Gluttony
+Hustle	70	110	80	95	60	70
+#0845	
+
+Cramorant	 	Gulp Missile	70	85	55	85	95	85
+#0887	
+
+Dragapult	 	Clear Body
+Infiltrator
+Cursed Body	88	120	75	100	75	142
+#0890	
+
+Eternatus	 	Pressure	140	85	95	145	95	130
+#0905	
+
+Enamorus	 	Cute Charm
+Contrary	74	115	70	135	80	106
+#0931	
+
+Squawkabilly	 	Intimidate
+Hustle
+Guts	82	96	51	45	51	92
+#0940	
+
+Wattrel	 	Wind Power
+Volt Absorb
+Competitive	40	40	35	55	40	70
+#0941	
+
+Kilowattrel	 	Wind Power
+Volt Absorb
+Competitive	70	70	60	105	60	125
+#0962	
+
+Bombirdier	 	Big Pecks
+Keen Eye
+Rocky Payload	70	103	85	60	85	82
+#0973	
+
+Flamigo	 	Scrappy
+Tangled Feet
+Costar	82	115	74	75	64	90
+#0993	
+
+Iron Jugulis	 	Quark Drive	94	80	86	122	80	108
+#1005	
+
+Roaring Moon	 	Protosynthesis	105	139	71	55	101	119
+#1016	
+
+Fezandipiti
